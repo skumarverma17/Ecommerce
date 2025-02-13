@@ -1,8 +1,7 @@
-# Ecommerce
+# Ecommerce BDD Automation Framework
 
 ## Introduction
-This BDD Automation Framework is created using Java + Selenium Web Driver + Cucumber + Maven Page Object Model(POM). 
-Which can be used across different web based applications.It is used to make the code more readable, maintainable and reusable.
+This BDD Automation Framework is created using Java + Selenium Web Driver + Cucumber + Maven Page Object Model(POM), which can be used across different web based applications. It is used to make the code more readable, maintainable and reusable.
 
 ## Technologies/Tools used in building the framework
 - Eclipse - IDE
